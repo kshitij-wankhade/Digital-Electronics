@@ -18,3 +18,5 @@ To switch on the Subtractor circuit there is one logic state (K) on right side o
 
 project blog-
 https://kshitijdigitalproject.blogspot.com/2026/03/design-of-xs-3-adder-and-subtractor.html
+circuit simulation youtube link-
+https://youtu.be/ePOi_GAYs04
